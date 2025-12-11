@@ -2,6 +2,10 @@ title: "Marshallese Community in Utah"
 description: "Stories, events, news, and resources for the Marshallese community in Utah."
 theme: minima
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
 # Navigation links
 header_pages:
 - about.md

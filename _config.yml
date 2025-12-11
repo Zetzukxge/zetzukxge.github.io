@@ -1,6 +1,6 @@
 title: "Marshallese Community in Utah"
 description: "Stories, events, news, and resources for the Marshallese community in Utah."
-theme: minima
+theme: 
 
 plugins:
   - jekyll-feed
